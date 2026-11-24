@@ -1,3 +1,6 @@
 
-欢迎来到我的个人主页\
-我目前正在做的项目是[`klein-browser`](https://github.com/yuroyumachi/klein-browser)
+welcome! good to see you here.
+
+[my GitHub page](https://github.com/yuroyumachi) -meet my codes.
+
+[yud(Yuroyumachi's Utilities Distribution)](/yud) -a portable development environment.
